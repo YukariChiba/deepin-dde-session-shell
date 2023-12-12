@@ -1,3 +1,9 @@
+dde-session-shell (6.0.15) unstable; urgency=medium
+
+  * fix: remove dependency of qtwebengine
+
+ -- Chang Yang <yangchang@deepin.org>  Tue, 12 Dec 2023 10:14:02 +0800
+
 dde-session-shell (6.0.14) unstable; urgency=medium
 
   * fix: start for a long time because of trying to invoke am
